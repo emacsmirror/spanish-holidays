@@ -30,11 +30,13 @@
 ;; (setq calendar-holidays (append calendar-holidays holiday-spanish-holidays))
 ;;
 
+;;; Code:
+
 (eval-when-compile
   (require 'calendar)
   (require 'holidays))
 
-(defvar holiday-spanish-holidays
+(defvar spanish-holidays
   '((holiday-fixed 1 2 "Lunes siguiente al Año Nuevo")
     (holiday-fixed 2 6 "Epifanía del Señor")
     (holiday-fixed 4 6 "Jueves Santo")
