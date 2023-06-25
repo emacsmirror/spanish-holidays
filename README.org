@@ -8,5 +8,4 @@ https://github.com/sggutier/mexican-holidays/blob/master/mexican-holidays.el
 Source for the holidays:
 https://administracion.gob.es/pag_Home/atencionCiudadana/calendarios/laboral.html
 
-* TODO
-Add regional holidays
+
