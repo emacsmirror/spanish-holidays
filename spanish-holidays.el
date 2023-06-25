@@ -20,12 +20,6 @@
 ;; For a full copy of the GNU General Public License
 ;; see <http://www.gnu.org/licenses/>.
 
-;; Based on:
-;; https://github.com/sggutier/mexican-holidays/blob/master/mexican-holidays.el
-;;
-;; Source for the holidays:
-;; https://administracion.gob.es/pag_Home/atencionCiudadana/calendarios/laboral.html
-;;
 ;;; Commentary:
 ;;
 ;; Remove default holidays, then append spanish calendar
