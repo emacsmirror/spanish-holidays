@@ -1,4 +1,4 @@
-;;; spanish-holidays.el --- Spain holidays for Emacs calendar.
+;;; spanish-holidays.el --- Spain holidays for calendar
 
 ;; Copyright (C) 2023 Carlos Pajuelo Rojo
 
@@ -46,8 +46,9 @@
     (holiday-fixed 11 1 "Todos los Santos")
     (holiday-fixed 12 6 "Día de la Constitución Española")
     (holiday-fixed 12 8 "Día de la Inmaculada Concepción")
-    (holiday-fixed 12 25 "Natividad del Señor")    
-    ))
+    (holiday-fixed 12 25 "Natividad del Señor")))
 
 
 (provide 'spanish-holidays)
+
+;;; spanish-holidays.el ends here"
