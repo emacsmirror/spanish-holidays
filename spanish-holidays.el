@@ -4,7 +4,7 @@
 
 ;; Author: Carlos Pajuelo <carlospajuelo_@hotmail.com>
 ;; URL: https://gitlab.com/gnuhack/spanish-holidays
-;; Version: 0.1
+;; Version: 0.1.2
 ;; Keywords: calendar
 
 ;; This file is free software; you can redistribute it and/or modify
@@ -38,7 +38,7 @@
 
 (defvar spanish-holidays
   '((holiday-fixed 1 2 "Lunes siguiente al Año Nuevo")
-    (holiday-fixed 2 6 "Epifanía del Señor")
+    (holiday-fixed 1 6 "Epifanía del Señor")
     (holiday-fixed 4 6 "Jueves Santo")
     (holiday-fixed 4 7 "Viernes Santo")
     (holiday-fixed 5 1 "Fiesta del Trabajo")
