@@ -39,8 +39,8 @@
 (defvar spanish-holidays
   '((holiday-fixed 1 1 "Año Nuevo")
     (holiday-fixed 1 6 "Epifanía del Señor")
-    (holiday-fixed 4 28 "Jueves Santo")
-    (holiday-fixed 4 29 "Viernes Santo")
+    (holiday-fixed 3 28 "Jueves Santo")
+    (holiday-fixed 3 29 "Viernes Santo")
     (holiday-fixed 5 1 "Fiesta del Trabajo")
     (holiday-fixed 7 25 "Santiago Apóstol")
     (holiday-fixed 8 15 "Asunción de la Virgen")
