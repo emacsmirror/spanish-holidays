@@ -1,10 +1,10 @@
 ;;; spanish-holidays.el --- Spain holidays for calendar
 
-;; Copyright (C) 2023 Carlos Pajuelo Rojo
+;; Copyright (C) 2024 Carlos Pajuelo Rojo
 
 ;; Author: Carlos Pajuelo <carlospajuelo_@hotmail.com>
 ;; URL: https://gitlab.com/gnuhack/spanish-holidays
-;; Version: 0.1.2
+;; Version: 0.1.3
 ;; Keywords: calendar
 
 ;; This file is free software; you can redistribute it and/or modify
@@ -39,15 +39,16 @@
 (defvar spanish-holidays
   '((holiday-fixed 1 1 "Año Nuevo")
     (holiday-fixed 1 6 "Epifanía del Señor")
-    (holiday-fixed 3 28 "Jueves Santo")
-    (holiday-fixed 3 29 "Viernes Santo")
+    (holiday-fixed 3 19 "San José")
+    (holiday-fixed 4 17 "Jueves Santo")
+    (holiday-fixed 4 18 "Viernes Santo")
     (holiday-fixed 5 1 "Fiesta del Trabajo")
     (holiday-fixed 7 25 "Santiago Apóstol")
     (holiday-fixed 8 15 "Asunción de la Virgen")
-    (holiday-fixed 10 12 "Fiesta Nacional de España")
+    (holiday-fixed 10 13 "Lunes siguiente a la Fiesta Nacional de España")
     (holiday-fixed 11 1 "Todos los Santos")
     (holiday-fixed 12 6 "Día de la Constitución Española")
-    (holiday-fixed 12 9 "Día siguiente a la Inmaculada Concepción")
+    (holiday-fixed 12 8 "La Inmaculada Concepción")
     (holiday-fixed 12 25 "Natividad del Señor")))
 
 (provide 'spanish-holidays)
